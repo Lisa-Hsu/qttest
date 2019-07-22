@@ -1,0 +1,13 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>test.png</file>
+        <file>cover.jpg</file>
+        <file>cover1.png</file>
+        <file>mask.jpg</file>
+        <file>ThresholdMask_mask.png</file>
+        <file>cover2.jpg</file>
+        <file>OpacityMask_mask.png</file>
+        <file>RunningText.qml</file>
+    </qresource>
+</RCC>
